@@ -1,0 +1,42 @@
+.App{
+  text-align: center;
+  background-color: #70ff8e;
+}
+
+
+.result{
+  height: 60px;
+  background-color: deepskyblue;
+  width: 100%;
+}
+.calc-body{
+  max-width: 400px;
+  margin: auto;
+
+}
+.result p{
+  font-size: 40px;
+}
+.buttons{
+  display: block;
+  background-color: orange;
+
+}
+.buttons button{
+  width: 25%;
+  height: 50px;
+  font-size: 30px;
+}
+.heading{
+  background-color: antiquewhite;
+  text-align: center;
+}
+.color1 {
+  background-color: #95f80b;
+}
+.color2 {
+  background-color: #198cee;
+}
+.color3 button{
+  background-color: #dd20e3;
+}
